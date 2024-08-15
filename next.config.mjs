@@ -10,7 +10,7 @@ const nextConfig = {
 };
 
 export default withSentryConfig(nextConfig, {
-    org: "sm-mastery",
+    org: "ritika-4c",
     project: "javascript-nextjs",
 
     silent: !process.env.CI,
